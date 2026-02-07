@@ -1,4 +1,4 @@
-VERSION = "test2"
+VERSION = "test3"
 
 from HostCore.utils.pyinstaller_context import PyInstallerContext
 
